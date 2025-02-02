@@ -1,8 +1,8 @@
 
 {
   "facebookAccount": {
-    "email": "yannbot570@gmail.com",
-    "password": "yannbot@237",
+    "email": "",
+    "password": "",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -13,14 +13,14 @@
   "antiInbox": false,
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-  "nickNameBot": "╔༒═✯yann𝐵𝑂𝑇✯═༒╗",
+  "nickNameBot": "╔༒═✯𝑆𝐴𝑇𝑂𝑅𝑈 𝐺𝑂𝐽𝑂 𝐵𝑂𝑇✯═༒╗",
   "prefix": "€",
   "adminOnly": {
     "enable": false,
     "ignoreCommand": []
   },
   "adminBot": [
-    "61569779003276"
+    "61564382117276"
   ],
   "whiteListMode": {
     "enable": false,
